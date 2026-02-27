@@ -1,6 +1,6 @@
 .container{display: flex; height: 100vh; flex-direction: column;}
 .header{flex: 15%; background-color:navy; }
-.menu{flex: 5%;background-color: maroon; display: flex;}
+.menu{flex: 5%;background-color: lightcyan; display: flex;}
 .menu a{padding: 15px 20px;}
 .menu hover{background-color: white; color: black;}
 .content{flex: 70%;background-color: lightgray;}
