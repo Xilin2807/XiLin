@@ -1,4 +1,13 @@
+.container{display: flex; height: 100vh; flex-direction: column;}
+.header{flex: 15%; background-color:magenta; }
+.menu{flex: 5%;background-color: maroon;}
+.content{flex: 70%;background-color:navy;}
+.footer{flex: 10%; background-color:magenta; }
+
+
+
 h1{color: tomato; text-align: center;}
 h2{color: navy; text-align: center;}
 .tieude {color: tomato; font-size:25pt; top-margin: 18pt;}
 .noidung {color:black; font-size: 15pt; top-margin: 6pt;}
+
