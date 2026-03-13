@@ -1,7 +1,7 @@
 .container{display: flex; height: 100vh; flex-direction: column;}
 .header{flex: 30%; background:url("images/IMG_3892.jpeg") top/100%; }
 .menu{flex: 5%;background-color: lightcyan; display: flex;}
-.menu a{padding: 15px 20px;}
+.menu a{padding: 15px 20px; background-color: navy; color: white;}
 .menu a:hover {background-color: white; color: black;}
 .content{flex: 55%;background-color: lightgray;}
 .footer{flex: 10%; background-color:magenta; }
