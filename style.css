@@ -3,8 +3,8 @@
 .menu{flex: 5%;background-color: lightcyan; display: flex;}
 .menu a{padding: 15px 20px; background-color: navy; color: white;}
 .menu a:hover {background-color: white; color: black;}
-.content{flex: 55%;background-color: lightgray;}
-.footer{flex: 10%; background-color:magenta; }
+.content{flex: 58%;background-color: lightgray;}
+.footer{flex: 7%; background-color:magenta; }
 .content iframe{flex: 1; border: none; width: 100%; height: 100%;}
 
 
